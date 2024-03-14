@@ -7,7 +7,7 @@
             { "atributes_type": "birdthDate", "value": "29-07-1978" },  //Data urodzenia
             { "atributes_type": "country", "value": "Poland" },         //Państwo
             { "atributes_type": "city", "value": "Białystok"}           //Miasto
-            { "atributes_type": "power", "value": "1"}                //Moc :) 
+            { "atributes_type": "power", "value": "1000"}               //Moc :) 
         ]
     }
 }
