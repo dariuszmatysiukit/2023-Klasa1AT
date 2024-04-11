@@ -10,4 +10,16 @@
             { "atributes_type": "power", "value": "Władanie czasem"}               //Moc :) 
         ]
     }
+
+    "hero_1": {
+        "name": "Dominik Wojdałowicz",     //Imię Nazwisko
+        "class": "1AT",             //Klasa (1AT,1BT,1CT)
+        "number": "19",                  //Numer w dzienniku
+        "atributes": [
+            { "atributes_type": "birdthDate", "value": "26-1-2008" },  //Data >
+            { "atributes_type": "country", "value": "Poland" },         //Państ>
+            { "atributes_type": "city", "value": "Białystok"}           //Miasto
+            { "atributes_type": "power", "value": "Odbieranie mocy Bartkowi"}           >
+        ]
+    }
 }
