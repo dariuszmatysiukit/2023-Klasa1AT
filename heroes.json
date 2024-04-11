@@ -7,7 +7,18 @@
             { "atributes_type": "birdthDate", "value": "02-03-2009" },  //Data urodzenia
             { "atributes_type": "country", "value": "Poland" },         //Państwo
             { "atributes_type": "city", "value": "Białystok"}           //Miasto
-            { "atributes_type": "power", "value": "Władanie czasem"}               //Moc :) 
+            { "atributes_type": "power", "value": "Władanie czasem"}               //Moc :)
+        ]
+    }
+    "hero_69": {
+        "name": "Michał Kuczyński",     //Imię Nazwisko
+        "class": "1AT",             //Klasa (1AT,1BT,1CT)
+        "number": "8",                  //Numer w dzienniku
+        "atributes": [
+            { "atributes_type": "birthDate", "value": "29-06-2009" },  //Data urodzenia
+            { "atributes_type": "country", "value": "Poland" },         //Państwo
+            { "atributes_type": "city", "value": "Białystok"}           //Miasto
+            { "atributes_type": "power", "value": "Zamiana Bartosza Nowosada w minionka na 1h"}               //Moc :)
         ]
     }
 
