@@ -46,3 +46,15 @@
             { "atributes_type": "power", "value": "Sigma skibidi"}               //Moc :)
         ]
     }
+{
+    "hero_25": {
+        "name": "Marek Podleśny",     //Imię Nazwisko
+        "class": "1AT",             //Klasa (1AT,1BT,1CT)
+        "number": "25",                  //Numer w dzienniku
+        "atributes": [
+            { "atributes_type": "birdthDate", "value": "31-07-2009" },  //Data urodzenia
+            { "atributes_type": "country", "value": "Poland" },         //Państwo
+            { "atributes_type": "city", "value": "Białystok"}           //Miasto
+            { "atributes_type": "power", "value": "Sigma skibidi"}               //Moc :)
+        ]
+    }
