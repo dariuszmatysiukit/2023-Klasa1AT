@@ -1,3 +1,23 @@
+
+
+    "hero_0": {
+        "name": "Andrzej Kamil Kuczyński",     //Imię Nazwisko
+        "class": "1AT",             //Klasa (1AT,1BT,1CT)
+        "number": "7",                  //Numer w dzienniku
+        "atributes": [
+            { "atributes_type": "birdthDate", "value": "21-02-2008" },  //Data urodzenia
+            { "atributes_type": "country", "value": "Poland" },         //Państwo
+            { "atributes_type": "city", "value": "Białystok"}           //Miasto
+            { "atributes_type": "power", "value": "Manipulacja myślami innych"}               //Moc :) 
+        ]
+    }
+}
+
+
+
+
+
+
 {
     "hero_0": {
         "name": "Bartosz Nowosad",     //Imię Nazwisko
