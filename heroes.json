@@ -30,4 +30,17 @@
             { "atributes_type": "power", "value": "Władanie czasem"}               //Moc :) 
         ]
     }
+"hero_2137": {
+        "name": "Miłosz Stalończyk",     //Imię Nazwisko
+        "class": "1AT",             //Klasa (1AT,1BT,1CT)
+        "number": "15",                  //Numer w dzienniku
+        "atributes": [
+            { "atributes_type": "birdthDate", "value": "21-04-20015" },  //Data urodzenia
+            { "atributes_type": "country", "value": "Poland" },         //Państwo
+            { "atributes_type": "city", "value": "Bydgoszcz"}           //Miasto
+            { "atributes_type": "power", "value": "Władanie piorunem i wirującym"}               //Moc :) 
+        ]
+    }
+
+
 }
