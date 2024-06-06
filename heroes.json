@@ -27,7 +27,30 @@
             { "atributes_type": "birdthDate", "value": "02-03-2009" },  //Data urodzenia
             { "atributes_type": "country", "value": "Poland" },         //Państwo
             { "atributes_type": "city", "value": "Białystok"}           //Miasto
-            { "atributes_type": "power", "value": "Władanie czasem"}               //Moc :) 
+            { "atributes_type": "power", "value": "Władanie czasem"}               //Moc :)
+        ]
+    }
+    "hero_69": {
+        "name": "Michał Kuczyński",     //Imię Nazwisko
+        "class": "1AT",             //Klasa (1AT,1BT,1CT)
+        "number": "8",                  //Numer w dzienniku
+        "atributes": [
+            { "atributes_type": "birthDate", "value": "29-06-2009" },  //Data urodzenia
+            { "atributes_type": "country", "value": "Poland" },         //Państwo
+            { "atributes_type": "city", "value": "Białystok"}           //Miasto
+            { "atributes_type": "power", "value": "Zamiana Bartosza Nowosada w minionka na 1h"}               //Moc :)
+        ]
+    }
+
+    "hero_1": {
+        "name": "Dominik Wojdałowicz",     //Imię Nazwisko
+        "class": "1AT",             //Klasa (1AT,1BT,1CT)
+        "number": "19",                  //Numer w dzienniku
+        "atributes": [
+            { "atributes_type": "birdthDate", "value": "26-1-2008" },  //Data >
+            { "atributes_type": "country", "value": "Poland" },         //Państ>
+            { "atributes_type": "city", "value": "Białystok"}           //Miasto
+            { "atributes_type": "power", "value": "Odbieranie mocy Bartkowi"}           >
         ]
     }
 "hero_2137": {
@@ -44,3 +67,27 @@
 
 
 }
+{
+    "hero_16": {
+        "name": "Przemysław Jarosz",     //Imię Nazwisko
+        "class": "1AT",             //Klasa (1AT,1BT,1CT)
+        "number": "5",                  //Numer w dzienniku
+        "atributes": [
+            { "atributes_type": "birdthDate", "value": "22-10-2008" },  //Data urodzenia
+            { "atributes_type": "country", "value": "Poland" },         //Państwo
+            { "atributes_type": "city", "value": "Białystok"}           //Miasto
+            { "atributes_type": "power", "value": "Sigma skibidi"}               //Moc :)
+        ]
+    }
+{
+    "hero_25": {
+        "name": "Marek Podleśny",     //Imię Nazwisko
+        "class": "1AT",             //Klasa (1AT,1BT,1CT)
+        "number": "12",                  //Numer w dzienniku
+        "atributes": [
+            { "atributes_type": "birdthDate", "value": "31-07-2009" },  //Data urodzenia
+            { "atributes_type": "country", "value": "Poland" },         //Państwo
+            { "atributes_type": "city", "value": "Białystok"}           //Miasto
+            { "atributes_type": "power", "value": "Sigma skibidi"}               //Moc :)
+        ]
+    }
